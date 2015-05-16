@@ -1,20 +1,21 @@
 {
   "name": "upgrade-function",
+  "description": "Upgrade Node.js-style async functions to use promises",
   "version": "0.1.1",
-  "homepage": "https://github.com/ileri/upgrade-function",
   "authors": [
-    "Malte-Maurice Dreyer <dreyer.maltem@gmail.com>"
+    "Malte-Maurice Dreyer <dreyer.maltem+dev@gmail.com>"
   ],
-  "main": "upgrade-function.js",
-  "moduleType": [
-    "es6"
-  ],
-  "license": "MIT",
+  "homepage": "https://github.com/ileri/upgrade-function",
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
     "test",
     "tests"
+  ],
+  "license": "MIT",
+  "main": "upgrade-function.js",
+  "moduleType": [
+    "es6"
   ]
 }
